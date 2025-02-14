@@ -3,13 +3,18 @@
 Welcome to my iOS engineering portfolio, showcasing projects I've worked on, from enterprise applications to educational and consumer-facing apps.
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mark%20Dubouzet-blue?logo=linkedin)](https://www.linkedin.com/in/mark-dubouzet/)
+<a href="https://www.linkedin.com/in/mark-dubouzet/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mark%20Dubouzet-blue?logo=linkedin" width="250">
+</a>
 
 ---
 
-## 🏦 JPMorgan Chase – Enterprise Applications
-[![JPMorgan Chase](https://img.shields.io/badge/JPMorgan%20Chase-Enterprise%20Apps-blue)](https://www.jpmorganchase.com/)
+## 🏦 JPMorgan Chase – Enterprise Applications  
+<a href="https://www.jpmorganchase.com">
+    <img src="https://img.shields.io/badge/JPMorgan%20Chase-Enterprise%20Apps-blue" width="275">
+</a>
 
+ 
 <p align="center">
   <a href="https://www.jpmorganchase.com/">
     <img src="/screens/jpmc_enterprise_apps.png" alt="JPMorgan Chase Enterprise Apps" width="650">
