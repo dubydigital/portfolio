@@ -2,9 +2,13 @@
 
 Welcome to my iOS engineering portfolio, showcasing projects I've worked on, from enterprise applications to educational and consumer-facing apps.
 
-## 🔗 Connect
+ 
+<a href="MarkDubouzet_Resume.pdf">
+    <img src="https://img.shields.io/badge/Mark%20Dubouzet-Resume-green?logo=linkedin" width="250">
+</a>    
+<br>  
 <a href="https://www.linkedin.com/in/mark-dubouzet/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mark%20Dubouzet-blue?logo=linkedin" width="250">
+    <img src="https://img.shields.io/badge/Mark%20Dubouzet-LinkedIn-blue?logo=linkedin" width="250">
 </a>
 
 ---
