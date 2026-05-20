@@ -27,6 +27,21 @@ Welcome to my iOS engineering portfolio, showcasing projects I've worked on, fro
 
 ---
 
+
+## 🐄 Frontiers Market AI – AI Ranching Company  
+<a href="https://frontiersmarket.com/">
+    <img src="https://img.shields.io/badge/JPMorgan%20Chase-Enterprise%20Apps-blue" width="275">
+</a>
+
+ 
+<p align="center">
+  <a href="https://frontiersmarket.com/">
+    <img src="/screens/FrontiersMarket.png" alt="Frontiers Market AI – AI Ranching Company " width="650">
+  </a>
+</p>
+
+---
+
 ## 📱 Featured Apps
 
 ### **Pre-K-Moji: Read Sight Words (Educational)**
