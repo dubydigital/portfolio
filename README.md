@@ -45,6 +45,7 @@ Welcome to my iOS engineering portfolio, showcasing projects I've worked on, fro
 ## 📱 Featured Apps
 
 ### **Pre-K-Moji: Read Sight Words (Educational)**
+[Pre-K-Moji site](https://prekmoji.com) <br>
 [Pre-K-Moji on the App Store](https://apps.apple.com/us/app/pre-k-moji/id6736380527)
 
 <p align="center">
